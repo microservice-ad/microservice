@@ -8,9 +8,10 @@
     <artifactId>microservice</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eureaka</module>
-        <module>config</module>
-        <module>configrepo</module>
+        <module>server-eureaka</module>
+        <module>config-git</module>
+        <module>config-repo</module>
+        <module>client-user</module>
     </modules>
     <packaging>pom</packaging>
 
